@@ -76,5 +76,6 @@ Project Name | Description | Languages | Frameworks | Supported Platforms
 --- | --- | :-: | :-: | :-:
 [ArrowPrayer](https://github.com/ModularEnigma/ArrowPrayer) | A Discord bot to submit prayer requests for the community to pray for | JavaScript | - | [Discord](https://craftingforchrist.net/discord)
 [PrayerTracker](https://github.com/bit-badger/PrayerTracker) |  A free prayer request tracking website | F# | - | [Web](https://prayer.bitbadger.solutions/)
+[\* prayerKeeper](https://github.com/ivanwhuang/prayerKeeper) |  A platform for users to keep up with the prayer requests/concerns of others | JavaScript | - | [Web](https://prayerkeeper.herokuapp.com/)
 
 \* Projects marked with an asterisk have been archived or abandoned.
