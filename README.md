@@ -2,7 +2,7 @@
 
 **Christian Projects** is a curated list of Christian projects.
 
-This repository is intended for developers, and so the only approved projects are open source projects, or APIs/services that could be useful to developers and are free to use (i.e. no fees). APIs that charge fees may be included if they offer a free level of access (e.g. 100 requests per day for free).
+This repository is primarily intended for developers, and so the only approved projects are open source projects, or APIs/services that could be useful to developers and are free to use (i.e. no fees). APIs that charge fees may be included if they offer a free level of access (e.g. 100 requests per day for free).
 
 Please see [CONTRIBUTING](CONTRIBUTING.md) for guidelines on submitting a project or making any other changes.
 
@@ -31,6 +31,7 @@ Project Name | Description | Languages | Frameworks | Supported Platforms
 [mBible](https://github.com/Appsmata/MasterBible-Desktop) | A high quality, visual, open source tool to give users access to the Holy Bible in English and Kiswahili | C++ | - | [Android, Windows](https://appsmata.com/mBible#download)
 [Sword Drill](https://github.com/meichthys/sword_drill) | An application that displays verse text on screen when audio verse reference is spoken | Python | - | [Desktop](https://github.com/meichthys/sword_drill/releases)
 [Xiphos](https://github.com/crosswire/xiphos) | A Bible study tool written for Linux, UNIX, and Windows | Scheme | GTK | [Windows, Linux, Unix](https://xiphos.org/download/)
+[XML-TEI-Bible](https://github.com/morethanbooks/XML-TEI-Bible) | Encoding the Bibel in TEI, starting with the Gospels  | Jupyter Notebook / XML | | [Jupyter Notebook](https://github.com/morethanbooks/XML-TEI-Bible/releases)
 
 ### Church Management
 
