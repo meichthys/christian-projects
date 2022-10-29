@@ -56,6 +56,7 @@ Project Name | Description | Languages | Frameworks | Supported Platforms
 ### Communication
 
 [Angelos / Logo](https://github.com/kristoffer-paulsson/angelos) | A safe messenger system and client | Python | - | [Web](https://angelos-project.com/)
+[\* communique](https://github.com/sugarcreek/communique) | The open church communicattions iPhone app | Objective-C | - | iOS
 
 ### Creeds, Confessions, and Catechisms
 
