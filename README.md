@@ -22,7 +22,8 @@ Project Name | Description | Languages | Frameworks | Supported Platforms
 [AndBible](https://github.com/AndBible/and-bible) | Powerful offline Bible Study tool for Android | Kotlin | Vue.js | [Android](https://play.google.com/store/apps/details?id=net.bible.android.activity)
 [believers-sword-next](https://github.com/Bible-Projects/believers-sword-next) |  This is the Believers-Sword new Code Base.  | TypeScript/Vue | - | [Desktop](https://believers-sword.brojenuel.com/)
 [bible_api](https://github.com/seven1m/bible_api) | Ruby web app that serves JSON API for open and public domain bibles | Ruby | - | [API](https://bible-api.com/)
-[biblehub](https://github.com/joshpetit/biblehub) |A python module and CLI app (Formerly BibleHubScrapper) that retrieves verses and information on those verses from biblehub | Python | - | [CLI](https://github.com/joshpetit/biblehub#installation)
+[biblehub](https://github.com/joshpetit/biblehub) | A python module and CLI app (Formerly BibleHubScrapper) that retrieves verses and information on those verses from biblehub | Python | - | [CLI](https://github.com/joshpetit/biblehub#installation)
+[bibletime](https://github.com/bibletime/bibletime) | A powerful cross platform Bible study tool.  | C++ | - | [Windows, MacOS](https://github.com/bibletime/bibletime/releases)
 [Bible Helper](https://github.com/genu/bible-helper) | A simple scripture reference lookup tool | JavaScript | - | [MacOS](https://github.com/genu/bible-helper/releases)
 [Bishop](https://git.crosswire.org/main/bishop) | Cordova Frontend for The SWORD Project | JavaScript | Cordova | Web
 [doubting-thomas-explorer](https://github.com/owenauch/doubting-thomas-explorer) | A set of scripts to explore the bible through cross references | Python | - | [API](https://github.com/owenauch/doubting-thomas-explorer#cross-reference-stepper)
