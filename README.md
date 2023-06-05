@@ -37,6 +37,7 @@ Project Name | Description | Languages | Frameworks | Supported Platforms
 [mBible](https://github.com/Appsmata/MasterBible-Desktop) | A high quality, visual, open source tool to give users access to the Holy Bible in English and Kiswahili | C++ | - | [Android, Windows](https://appsmata.com/mBible#download)
 [Sword Drill](https://github.com/meichthys/sword_drill) | An application that displays verse text on screen when audio verse reference is spoken | Python | - | [Desktop](https://github.com/meichthys/sword_drill/releases)
 [timeline-of-everything](https://github.com/BenShelton/timeline-of-everything) | A comprehensive timeline of Biblical events, characters, prophecies (& their fulfillments), places... everything! | Typescript | - | [Web](https://timeline-of-everything.netlify.app/)
+[timeline-poc](https://github.com/texttree/timeline-poc) |  Library of components for convenient viewing of various biblical events  | JavaScript script | - | [API](https://tt-timeline-poc.netlify.app/)
 [Xiphos](https://github.com/crosswire/xiphos) | A Bible study tool written for Linux, UNIX, and Windows | Scheme | GTK | [Windows, Linux, Unix](https://xiphos.org/download/)
 [XML-TEI-Bible](https://github.com/morethanbooks/XML-TEI-Bible) | Encoding the Bibel in TEI, starting with the Gospels  | Jupyter Notebook / XML | | [Jupyter Notebook](https://github.com/morethanbooks/XML-TEI-Bible/releases)
 
