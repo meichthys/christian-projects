@@ -21,6 +21,8 @@ Project Name | Description | Languages | Frameworks | Supported Platforms
 --- | --- | :-: | :-: | :-:
 [AndBible](https://github.com/AndBible/and-bible) | Powerful offline Bible Study tool for Android | Kotlin | Vue.js | [Android](https://play.google.com/store/apps/details?id=net.bible.android.activity)
 [believers-sword-next](https://github.com/Bible-Projects/believers-sword-next) |  This is the Believers-Sword new Code Base.  | TypeScript/Vue | - | [Desktop](https://believers-sword.brojenuel.com/)
+[\* bible-cross-reference-json](https://github.com/josephilipraja/bible-cross-reference-json/) | There are total of 31,102 verses in 32 JSON files, cross referenced to as many as possible, Reference credit goes to SoulLiberty | JSON | - | [API](https://github.com/josephilipraja/bible-cross-reference-json/)
+[bible-crossref](https://github.com/texttree/bible-crossref) |  A small library that returns cross-references for a selected verse or chapter  | JavaScript/HTML | - | [API](https://crossref.texttree.org/)
 [bible_api](https://github.com/seven1m/bible_api) | Ruby web app that serves JSON API for open and public domain bibles | Ruby | - | [API](https://bible-api.com/)
 [biblehub](https://github.com/joshpetit/biblehub) | A python module and CLI app (Formerly BibleHubScrapper) that retrieves verses and information on those verses from biblehub | Python | - | [CLI](https://github.com/joshpetit/biblehub#installation)
 [bible-timeline](https://github.com/lifegems/bible-timeline) | A lengthy timeline of the bible | HTML/CSS | - | [Web](http://lifegems.github.io/bible-timeline)
