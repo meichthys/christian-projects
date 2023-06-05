@@ -28,6 +28,7 @@ Project Name | Description | Languages | Frameworks | Supported Platforms
 [Bishop](https://git.crosswire.org/main/bishop) | Cordova Frontend for The SWORD Project | JavaScript | Cordova | Web
 [doubting-thomas-explorer](https://github.com/owenauch/doubting-thomas-explorer) | A set of scripts to explore the bible through cross references | Python | - | [API](https://github.com/owenauch/doubting-thomas-explorer#cross-reference-stepper)
 [Eloquent](https://github.com/mdbergmann/Eloquent) | A free & open-source application for research and study of God and His Word. | Objective-C/C++ | - | [MacOS](https://github.com/mdbergmann/Eloquent/releases)
+[English-Bible](https://github.com/dtjohnso/English-Bible) | A timeline of the English Bible | HTML | - | [Web](http://duncanjohnson.ca/English-Bible/)
 [Ezra Bible App](https://github.com/ezra-bible-app/ezra-bible-app) | A modern and user-friendly Bible app for desktops and tablets focussing on topical study | JavaScript | - | [Windows, MacOS, Ubuntu, Fedora](https://github.com/ezra-bible-app/ezra-bible-app/releases)
 [GNT Reader](https://github.com/mattrob33/sblgnt-reader) | A digital reader's edition of the Greek New Testament | Kotlin | - | Android
 [mBible](https://github.com/Appsmata/MasterBible-Desktop) | A high quality, visual, open source tool to give users access to the Holy Bible in English and Kiswahili | C++ | - | [Android, Windows](https://appsmata.com/mBible#download)
