@@ -23,6 +23,7 @@ Project Name | Description | Languages | Frameworks | Supported Platforms
 [believers-sword-next](https://github.com/Bible-Projects/believers-sword-next) |  This is the Believers-Sword new Code Base.  | TypeScript/Vue | - | [Desktop](https://believers-sword.brojenuel.com/)
 [bible_api](https://github.com/seven1m/bible_api) | Ruby web app that serves JSON API for open and public domain bibles | Ruby | - | [API](https://bible-api.com/)
 [biblehub](https://github.com/joshpetit/biblehub) | A python module and CLI app (Formerly BibleHubScrapper) that retrieves verses and information on those verses from biblehub | Python | - | [CLI](https://github.com/joshpetit/biblehub#installation)
+[bible-timeline](https://github.com/lifegems/bible-timeline) | A lengthy timeline of the bible | HTML/CSS | - | [Web](http://lifegems.github.io/bible-timeline)
 [bibletime](https://github.com/bibletime/bibletime) | A powerful cross platform Bible study tool.  | C++ | - | [Windows, MacOS](https://github.com/bibletime/bibletime/releases)
 [Bible Helper](https://github.com/genu/bible-helper) | A simple scripture reference lookup tool | JavaScript | - | [MacOS](https://github.com/genu/bible-helper/releases)
 [Bishop](https://git.crosswire.org/main/bishop) | Cordova Frontend for The SWORD Project | JavaScript | Cordova | Web
